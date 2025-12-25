@@ -13,7 +13,7 @@ manifest:
       import: app/west.yml
     - name: prospector-zmk-module
       remote: carrefinho
-      revision: main
+      revision: fix/stability
     # - name: zmk-dongle-screen
     #   remote: janpfischer
     #   revision: 0.1.2
